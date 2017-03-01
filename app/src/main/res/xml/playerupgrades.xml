@@ -1,0 +1,26 @@
+<playerUpgrades>
+    <damageUpgrade>
+        <level id = "0" cost = "0" value = "100"/>
+        <level id = "1" cost = "50" value = "125"/>
+        <level id = "2" cost = "100" value = "150"/>
+        <level id = "3" cost = "200" value = "200"/>
+        <level id = "4" cost = "400" value = "300"/>
+        <level id = "5" cost = "800" value = "400"/>
+    </damageUpgrade>
+    <hpUpgrade>
+        <level id = "0" cost = "0" value = "100"/>
+        <level id = "1" cost = "50" value = "125"/>
+        <level id = "2" cost = "100" value = "150"/>
+        <level id = "3" cost = "200" value = "200"/>
+        <level id = "4" cost = "400" value = "300"/>
+        <level id = "5" cost = "800" value = "400"/>
+     </hpUpgrade>
+    <manaUpgrade>
+        <level id = "0" cost = "0" value = "100"/>
+        <level id = "1" cost = "50" value = "125"/>
+        <level id = "2" cost = "100" value = "150"/>
+        <level id = "3" cost = "200" value = "200"/>
+        <level id = "4" cost = "400" value = "300"/>
+        <level id = "5" cost = "800" value = "400"/>
+    </manaUpgrade>
+</playerUpgrades>

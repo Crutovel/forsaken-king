@@ -1,0 +1,82 @@
+<spritesheet>
+<animation id = "0" framesDelayed = "4" name = "dead">
+    <sprite x="0" y="0" w="189" h="306" pX="0.359788" pY="0.5" framecount="2"/>
+    <sprite x="189" y="0" w="197" h="304" pX="0.385787" pY="0.503289" framecount="2"/>
+</animation>
+<animation id = "1" framesDelayed = "2" name = "dying">
+    <sprite x="0" y="1232" w="342" h="265" pX="0.505848" pY="0.532075" framecount="2"/>
+    <sprite x="0" y="480" w="337" h="243" pX="0.498516" pY="0.489712" framecount="2"/>
+    <sprite x="0" y="0" w="331" h="240" pX="0.486405" pY="0.475" framecount="2"/>
+    <sprite x="0" y="240" w="315" h="240" pX="0.463492" pY="0.45" framecount="2"/>
+    <sprite x="0" y="723" w="278" h="246" pX="0.438849" pY="0.447154" framecount="2"/>
+    <sprite x="0" y="969" w="237" h="263" pX="0.383966" pY="0.513308" framecount="2"/>
+    <sprite x="0" y="1497" w="231" h="310" pX="0.406926" pY="0.509677" framecount="2"/>
+</animation>
+<animation id = "2" framesDelayed = "2" name ="freezing">
+    <sprite x="358" y="0" w="340" h="285" pX="0.402941" pY="0.550877" framecount="2"/>
+    <sprite x="359" y="294" w="334" h="299" pX="0.374252" pY="0.571906" framecount="2"/>
+    <sprite x="698" y="0" w="322" h="291" pX="0.357143" pY="0.563574" framecount="2"/>
+    <sprite x="1020" y="0" w="350" h="294" pX="0.38" pY="0.520408" framecount="2"/>
+    <sprite x="719" y="602" w="355" h="319" pX="0.4" pY="0.492163" framecount="2"/>
+    <sprite x="1074" y="602" w="359" h="330" pX="0.389972" pY="0.509091" framecount="2"/>
+    <sprite x="1052" y="294" w="359" h="308" pX="0.387187" pY="0.474026" framecount="2"/>
+    <sprite x="693" y="294" w="359" h="300" pX="0.387187" pY="0.46" framecount="2"/>
+    <sprite x="360" y="602" w="359" h="315" pX="0.387187" pY="0.485714" framecount="2"/>
+    <sprite x="0" y="602" w="360" h="312" pX="0.386111" pY="0.583333" framecount="2"/>
+    <sprite x="0" y="294" w="359" h="299" pX="0.398329" pY="0.578595" framecount="2"/>
+    <sprite x="0" y="0" w="358" h="272" pX="0.396648" pY="0.536765" framecount="2"/>
+</animation>
+<animation id = "3" framesDelayed = "2" name ="frontAttacking">
+    <sprite x="0" y="407" w="239" h="263" pX="0.58159" pY="0.505703" framecount="2"/>
+    <sprite x="290" y="0" w="205" h="395" pX="0.404878" pY="0.589873" framecount="2"/>
+    <sprite x="139" y="0" w="151" h="407" pX="0.344371" pY="0.712531" framecount="2"/>
+    <sprite x="0" y="0" w="139" h="301" pX="0.402878" pY="0.524917" framecount="2"/>
+    <sprite x="0" y="670" w="347" h="268" pX="0.103746" pY="0.492537" framecount="2"/>
+    <sprite x="239" y="407" w="247" h="224" pX="0.271255" pY="0.366071" framecount="2"/>
+</animation>
+    <animation id = "4" framesDelayed = "2" name = "healing">
+        <sprite x="0" y="0" w="344" h="273" pX="0.534884" pY="0.534799" framecount="2"/>
+        <sprite x="0" y="543" w="357" h="277" pX="0.507003" pY="0.545126" framecount="2"/>
+        <sprite x="0" y="835" w="377" h="278" pX="0.501326" pY="0.543165" framecount="2"/>
+        <sprite x="344" y="0" w="356" h="270" pX="0.463483" pY="0.525926" framecount="2"/>
+        <sprite x="357" y="543" w="357" h="292" pX="0.445378" pY="0.558219" framecount="2"/>
+        <sprite x="0" y="1113" w="358" h="320" pX="0.435754" pY="0.59375" framecount="2"/>
+        <sprite x="0" y="1450" w="357" h="371" pX="0.448179" pY="0.628032" framecount="2"/>
+        <sprite x="357" y="1450" w="346" h="394" pX="0.439306" pY="0.649746" framecount="2"/>
+        <sprite x="358" y="1113" w="356" h="337" pX="0.446629" pY="0.587537" framecount="2"/>
+        <sprite x="358" y="273" w="358" h="270" pX="0.5" pY="0.481481" framecount="2"/>
+        <sprite x="0" y="273" w="358" h="269" pX="0.513966" pY="0.516729" framecount="2"/>
+    </animation>
+    <animation id = "5" framesDelayed = "2" name = "leftAttacking">
+        <sprite x="0" y="237" w="307" h="260" pX="0.436482" pY="0.5" framecount="2"/>
+        <sprite x="592" y="0" w="272" h="237" pX="0.955882" pY="0.523207" framecount="2"/>
+        <sprite x="505" y="237" w="229" h="303" pX="0.742358" pY="0.247525" framecount="2"/>
+        <sprite x="0" y="0" w="308" h="186" pX="0.616883" pY="0.349462" framecount="2"/>
+        <sprite x="308" y="0" w="284" h="224" pX="0.633803" pY="0.424107" framecount="2"/>
+        <sprite x="307" y="237" w="198" h="279" pX="0.459596" pY="0.573477" framecount="2"/>
+    </animation>
+    <animation id = "6" framesDelayed = "2" name = "rightAttacking">
+        <sprite x="0" y="0" w="307" h="261" pX="0.85342" pY="0.348659" framecount="2"/>
+        <sprite x="307" y="0" w="253" h="291" pX="0.620553" pY="0.549828" framecount="2"/>
+        <sprite x="560" y="0" w="293" h="235" pX="0.232082" pY="0.455319" framecount="2"/>
+        <sprite x="0" y="291" w="231" h="327" pX="0.268398" pY="0.198777" framecount="2"/>
+        <sprite x="231" y="291" w="184" h="369" pX="0.255435" pY="0.273713" framecount="2"/>
+        <sprite x="415" y="291" w="329" h="234" pX="0.5" pY="0.5" framecount="2"/>
+    </animation>
+    <animation id = "7" framesDelayed = "2" name = "simpleIdling">
+        <sprite x="0" y="0" w="316" h="250" pX="0.5" pY="0.5" framecount="2"/>
+        <sprite x="316" y="0" w="316" h="250" pX="0.5" pY="0.5" framecount="2"/>
+        <sprite x="632" y="0" w="316" h="250" pX="0.5" pY="0.5" framecount="2"/>
+    </animation>
+    <animation id = "8" framesDelayed = "2" name = "soulKilling">
+        <sprite x="0" y="0" w="294" h="231" pX="0.404762" pY="0.463203" framecount="2"/>
+        <sprite x="294" y="0" w="321" h="234" pX="0.439252" pY="0.478632" framecount="2"/>
+        <sprite x="615" y="0" w="330" h="239" pX="0.448485" pY="0.48954" framecount="2"/>
+        <sprite x="0" y="239" w="330" h="239" pX="0.448485" pY="0.48954" framecount="2"/>
+        <sprite x="330" y="239" w="320" h="259" pX="0.490625" pY="0.521236" framecount="2"/>
+        <sprite x="324" y="515" w="303" h="296" pX="0.50165" pY="0.47973" framecount="2"/>
+        <sprite x="650" y="239" w="319" h="276" pX="0.495298" pY="0.474638" framecount="2"/>
+        <sprite x="0" y="515" w="324" h="273" pX="0.5" pY="0.487179" framecount="2"/>
+        <sprite x="627" y="515" w="333" h="270" pX="0.5" pY="0.5" framecount="2"/>
+    </animation>
+</spritesheet>

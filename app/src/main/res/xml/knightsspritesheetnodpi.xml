@@ -1,0 +1,140 @@
+<spritesheet>
+    <animation sheet = "0" framesDelayed = "3" name = "attacking" direction = "left">
+        <sprite x="0" y="0" w="201" h="110" pX="0.475248" pY="0.4" framecount="1"/>
+        <sprite x="0" y="110" w="191" h="114" pX="0.479167" pY="0.421053" framecount="1"/>
+        <sprite x="0" y="224" w="204" h="104" pX="0.466019" pY="0.346154" framecount="1"/>
+    </animation>
+    <animation sheet = "1" framesDelayed = "3" name = "attacking" direction = "front">
+        <sprite x="0" y="0" w="201" h="110" pX="0.524752" pY="0.4" framecount="1"/>
+        <sprite x="0" y="110" w="191" h="114" pX="0.520833" pY="0.535211" framecount="1"/>
+        <sprite x="0" y="224" w="204" h="104" pX="0.533981" pY="0.346154" framecount="1"/>
+    </animation>
+    <animation sheet = "1" framesDelayed = "3" name = "attacking" direction = "right">
+        <sprite x="0" y="0" w="201" h="110" pX="0.524752" pY="0.4" framecount="1"/>
+        <sprite x="0" y="110" w="191" h="114" pX="0.520833" pY="0.535211" framecount="1"/>
+        <sprite x="0" y="224" w="204" h="104" pX="0.533981" pY="0.346154" framecount="1"/>
+    </animation>
+    <animation sheet = "2" framesDelayed = "3" name = "preAttacking" direction = "left">
+        <sprite x="0" y="0" w="214" h="107" pX="0.457944" pY="0.388889" framecount="1"/>
+        <sprite x="214" y="0" w="187" h="107" pX="0.5" pY="0.388889" framecount="1"/>
+        <sprite x="401" y="0" w="182" h="107" pX="0.494505" pY="0.388889" framecount="1"/>
+    </animation>
+    <animation sheet = "3" framesDelayed = "3" name = "preAttacking" direction = "front">
+        <sprite x="0" y="0" w="214" h="107" pX="0.542056" pY="0.388889" framecount="1"/>
+        <sprite x="214" y="0" w="187" h="107" pX="0.5" pY="0.388889" framecount="1"/>
+        <sprite x="401" y="0" w="182" h="107" pX="0.505495" pY="0.388889" framecount="1"/>
+    </animation>
+    <animation sheet = "3" framesDelayed = "3" name = "preAttacking" direction = "right">
+        <sprite x="0" y="0" w="214" h="107" pX="0.542056" pY="0.388889" framecount="1"/>
+        <sprite x="214" y="0" w="187" h="107" pX="0.5" pY="0.388889" framecount="1"/>
+        <sprite x="401" y="0" w="182" h="107" pX="0.505495" pY="0.388889" framecount="1"/>
+    </animation>
+    <animation sheet = "4" framesDelayed = "3" name = "moving" direction = "left">
+        <sprite x="0" y="0" w="205" h="107" pX="0.446602" pY="0.37037" framecount="1"/>
+        <sprite x="205" y="0" w="199" h="107" pX="0.47" pY="0.37037" framecount="1"/>
+    </animation>
+    <animation sheet = "5" framesDelayed = "3" name = "moving" direction = "front">
+        <sprite x="0" y="0" w="205" h="107" pX="0.553398" pY="0.37037" framecount="1"/>
+        <sprite x="205" y="0" w="199" h="107" pX="0.53" pY="0.37037" framecount="1"/>
+    </animation>
+    <animation sheet = "5" framesDelayed = "3" name = "moving" direction = "right">
+        <sprite x="0" y="0" w="205" h="107" pX="0.553398" pY="0.37037" framecount="1"/>
+        <sprite x="205" y="0" w="199" h="107" pX="0.53" pY="0.37037" framecount="1"/>
+    </animation>
+    <animation sheet = "6" framesDelayed = "3" name = "jubilating" direction = "left">
+        <sprite x="0" y="0" w="208" h="107" pX="0.471154" pY="0.37037" framecount="1"/>
+        <sprite x="0" y="107" w="213" h="117" pX="0.495327" pY="0.423729" framecount="1"/>
+        <sprite x="0" y="224" w="210" h="124" pX="0.514286" pY="0.451613" framecount="1"/>
+    </animation>
+    <animation sheet = "7" framesDelayed = "3" name = "jubilating" direction = "front">
+        <sprite x="0" y="0" w="208" h="107" pX="0.528846" pY="0.37037" framecount="1"/>
+        <sprite x="0" y="107" w="213" h="117" pX="0.504673" pY="0.423729" framecount="1"/>
+        <sprite x="0" y="224" w="210" h="124" pX="0.485714" pY="0.451613" framecount="1"/>
+    </animation>
+    <animation sheet = "7" framesDelayed = "3" name = "jubilating" direction = "right">
+        <sprite x="0" y="0" w="208" h="107" pX="0.528846" pY="0.37037" framecount="1"/>
+        <sprite x="0" y="107" w="213" h="117" pX="0.504673" pY="0.423729" framecount="1"/>
+        <sprite x="0" y="224" w="210" h="124" pX="0.485714" pY="0.451613" framecount="1"/>
+    </animation>
+    <animation sheet = "8" framesDelayed = "3" name = "freezing" direction = "left">
+        <sprite x="0" y="111" w="201" h="111" pX="0.475248" pY="0.392857" framecount="1"/>
+        <sprite x="0" y="0" w="201" h="111" pX="0.475248" pY="0.392857" framecount="1"/>
+        <sprite x="201" y="0" w="207" h="111" pX="0.490385" pY="0.392857" framecount="1"/>
+        <sprite x="201" y="111" w="212" h="119" pX="0.481132" pY="0.433333" framecount="1"/>
+    </animation>
+    <animation sheet = "9" framesDelayed = "3" name = "freezing" direction = "front">
+        <sprite x="0" y="111" w="201" h="111" pX="0.524752" pY="0.392857" framecount="1"/>
+        <sprite x="0" y="0" w="201" h="111" pX="0.524752" pY="0.392857" framecount="1"/>
+        <sprite x="201" y="0" w="207" h="111" pX="0.509615" pY="0.392857" framecount="1"/>
+        <sprite x="201" y="111" w="212" h="119" pX="0.518868" pY="0.433333" framecount="1"/>
+    </animation>
+    <animation sheet = "9" framesDelayed = "3" name = "freezing" direction = "right">
+        <sprite x="0" y="111" w="201" h="111" pX="0.524752" pY="0.392857" framecount="1"/>
+        <sprite x="0" y="0" w="201" h="111" pX="0.524752" pY="0.392857" framecount="1"/>
+        <sprite x="201" y="0" w="207" h="111" pX="0.509615" pY="0.392857" framecount="1"/>
+        <sprite x="201" y="111" w="212" h="119" pX="0.518868" pY="0.433333" framecount="1"/>
+    </animation>
+    <animation sheet = "10" framesDelayed = "3" name = "simpleDying" direction = "front">
+        <sprite x="0" y="0" w="266" h="91" pX="0.556391" pY="0.304348" framecount="1"/>
+        <sprite x="0" y="91" w="278" h="81" pX="0.503597" pY="0.195122" framecount="1"/>
+        <sprite x="0" y="172" w="258" h="66" pX="0.530769" pY="0.030303" framecount="1"/>
+        <sprite x="0" y="238" w="258" h="66" pX="0.530769" pY="0.030303" framecount="1"/>
+    </animation>
+    <animation sheet = "11" framesDelayed = "3" name = "simpleDying" direction = "left">
+        <sprite x="0" y="0" w="287" h="167" pX="1.27083" pY="0.785714" framecount="1"/>
+        <sprite x="0" y="167" w="270" h="135" pX="1.31618" pY="0.470588" framecount="1"/>
+        <sprite x="0" y="302" w="294" h="94" pX="1.31757" pY="0.0212766" framecount="1"/>
+        <sprite x="0" y="396" w="295" h="96" pX="1.31757" pY="0.02128" framecount="1"/>
+    </animation>
+    <animation sheet = "12" framesDelayed = "3" name = "simpleDying" direction = "right">
+        <sprite x="0" y="0" w="287" h="167" pX="-0.27083" pY="0.78571" framecount="1"/>
+        <sprite x="0" y="167" w="270" h="135" pX="-0.31618" pY="0.47059" framecount="1"/>
+        <sprite x="0" y="302" w="294" h="94" pX="-0.31757" pY="0.02128" framecount="1"/>
+        <sprite x="0" y="396" w="295" h="96" pX="-0.31757" pY="0.02128" framecount="1"/>
+    </animation>
+    <animation sheet = "13" framesDelayed = "3" name = "soulDying" direction = "left">
+        <sprite x="224" y="0" w="233" h="103" pX="0.470085" pY="0.365385" framecount="1"/>
+        <sprite x="235" y="291" w="235" h="127" pX="0.474576" pY="0.484375" framecount="1"/>
+        <sprite x="0" y="291" w="235" h="150" pX="0.474576" pY="0.56" framecount="1"/>
+        <sprite x="0" y="108" w="235" h="170" pX="0.474576" pY="0.616279" framecount="1"/>
+        <sprite x="235" y="108" w="235" h="183" pX="0.474576" pY="0.641304" framecount="1"/>
+        <sprite x="0" y="0" w="224" h="108" pX="0.464286" pY="0.296296" framecount="1"/>
+        <sprite x="0" y="441" w="264" h="76" pX="0.484848" pY="-0.315789" framecount="1"/>
+        <sprite x="0" y="517" w="264" h="76" pX="0.484848" pY="-0.31579" framecount="1"/>
+    </animation>
+    <animation sheet = "14" framesDelayed = "3" name = "soulDying" direction = "front">
+        <sprite x="224" y="0" w="233" h="103" pX="0.529915" pY="0.365385" framecount="1"/>
+        <sprite x="235" y="291" w="235" h="127" pX="0.525424" pY="0.484375" framecount="1"/>
+        <sprite x="0" y="291" w="235" h="150" pX="0.525424" pY="0.56" framecount="1"/>
+        <sprite x="0" y="108" w="235" h="170" pX="0.525424" pY="0.616279" framecount="1"/>
+        <sprite x="235" y="108" w="235" h="183" pX="0.525424" pY="0.641304" framecount="1"/>
+        <sprite x="0" y="0" w="224" h="108" pX="0.535714" pY="0.296296" framecount="1"/>
+        <sprite x="0" y="441" w="264" h="76" pX="0.5" pY="-0.31579" framecount="1"/>
+        <sprite x="0" y="517" w="264" h="76" pX="0.5" pY="-0.31579" framecount="1"/>
+    </animation>
+    <animation sheet = "14" framesDelayed = "3" name = "soulDying" direction = "right">
+        <sprite x="224" y="0" w="233" h="103" pX="0.529915" pY="0.365385" framecount="1"/>
+        <sprite x="235" y="291" w="235" h="127" pX="0.525424" pY="0.484375" framecount="1"/>
+        <sprite x="0" y="291" w="235" h="150" pX="0.525424" pY="0.56" framecount="1"/>
+        <sprite x="0" y="108" w="235" h="170" pX="0.525424" pY="0.616279" framecount="1"/>
+        <sprite x="235" y="108" w="235" h="183" pX="0.525424" pY="0.641304" framecount="1"/>
+        <sprite x="0" y="0" w="224" h="108" pX="0.535714" pY="0.296296" framecount="1"/>
+        <sprite x="0" y="441" w="264" h="76" pX="0.5" pY="-0.31579" framecount="1"/>
+        <sprite x="0" y="517" w="264" h="76" pX="0.5" pY="-0.31579" framecount="1"/>
+    </animation>
+    <animation sheet = "15" framesDelayed = "3" name = "unfreezing" direction = "right">
+        <sprite x="0" y="0" w="207" h="111" pX="0.509615" pY="0.392857" framecount="1"/>
+        <sprite x="207" y="0" w="201" h="111" pX="0.524752" pY="0.392857" framecount="1"/>
+        <sprite x="408" y="0" w="201" h="111" pX="0.524752" pY="0.392857" framecount="1"/>
+    </animation>
+    <animation sheet = "15" framesDelayed = "3" name = "unfreezing" direction = "front">
+        <sprite x="0" y="0" w="207" h="111" pX="0.509615" pY="0.392857" framecount="1"/>
+        <sprite x="207" y="0" w="201" h="111" pX="0.524752" pY="0.392857" framecount="1"/>
+        <sprite x="408" y="0" w="201" h="111" pX="0.524752" pY="0.392857" framecount="1"/>
+    </animation>
+    <animation sheet = "16" framesDelayed = "3" name = "unfreezing" direction = "left">
+        <sprite x="0" y="0" w="207" h="111" pX="0.490385" pY="0.392857" framecount="1"/>
+        <sprite x="207" y="0" w="201" h="111" pX="0.475248" pY="0.392857" framecount="1"/>
+        <sprite x="408" y="0" w="201" h="111" pX="0.475248" pY="0.392857" framecount="1"/>
+    </animation>
+</spritesheet>

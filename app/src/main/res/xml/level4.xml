@@ -1,0 +1,9 @@
+<level>
+    <sky r = "171" g = "215" b = "243" />
+    <skyline type = "yellowhill"/>
+    <terrain name = "yellowgrass"/>
+    <expReward amount = "800"/>
+    <units>
+        <unit name = "Knights" quantity = "70" power ="2.0"/>
+    </units>
+</level>
